@@ -10,11 +10,11 @@
 | Location | GĂRII, 13A, Municipiul Braşov, Braşov |
 | Website | [https://www.principal33.com](https://www.principal33.com) |
 | Careers | [https://www.principal33.com/careers](https://www.principal33.com/careers) |
-| Last Scraped | 2026-07-24 |
+| Last Scraped | 2026-07-25 |
 
-## Current Job Listings (13)
+## Current Job Listings (14)
 
-_Generated: 2026-07-24T08:25:17.043Z_
+_Generated: 2026-07-25T08:04:13.346Z_
 
 ### Data Engineer
 
@@ -112,4 +112,11 @@ _Generated: 2026-07-24T08:25:17.043Z_
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
 - **Tags:** .net, c#, asp.net core, rest api, sql
+- **Status:** scraped
+
+### Python Developer - USA time zone
+
+- **URL:** [https://www.principal33.com/job-offers/?personio_job_id=2726890](https://www.principal33.com/job-offers/?personio_job_id=2726890)
+- **Work Mode:** hybrid
+- **Location:** România
 - **Status:** scraped
