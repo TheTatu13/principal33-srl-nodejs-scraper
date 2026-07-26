@@ -10,11 +10,11 @@
 | Location | GĂRII, 13A, Municipiul Braşov, Braşov |
 | Website | [https://www.principal33.com](https://www.principal33.com) |
 | Careers | [https://www.principal33.com/careers](https://www.principal33.com/careers) |
-| Last Scraped | 2026-07-25 |
+| Last Scraped | 2026-07-26 |
 
 ## Current Job Listings (14)
 
-_Generated: 2026-07-25T08:04:13.346Z_
+_Generated: 2026-07-26T08:23:53.821Z_
 
 ### Data Engineer
 
