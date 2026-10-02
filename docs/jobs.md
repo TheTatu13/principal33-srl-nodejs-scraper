@@ -7,14 +7,14 @@
 | CIF | 42574513 |
 | Brand | principal33 |
 | Status | activ |
-| Location | GĂRII, 13A, Municipiul Braşov, Braşov |
+| Location | JUD. BRAŞOV, MUN. BRAŞOV, BLD. GĂRII, NR.13A, CLĂDIREA NINE, ET.3 |
 | Website | [https://www.principal33.com](https://www.principal33.com) |
 | Careers | [https://www.principal33.com/careers](https://www.principal33.com/careers) |
-| Last Scraped | 2026-07-26 |
+| Last Scraped | 2026-10-02 |
 
-## Current Job Listings (14)
+## Current Job Listings (6)
 
-_Generated: 2026-07-26T08:23:53.821Z_
+_Generated: 2026-10-02T23:31:57.768Z_
 
 ### Data Engineer
 
@@ -22,14 +22,6 @@ _Generated: 2026-07-26T08:23:53.821Z_
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca, Târgu Mureș
 - **Tags:** sql, aws, python
-- **Status:** scraped
-
-### Data Scientist
-
-- **URL:** [https://www.principal33.com/job-offers/?personio_job_id=2522011](https://www.principal33.com/job-offers/?personio_job_id=2522011)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** data scientist, machine learning, ai
 - **Status:** scraped
 
 ### Principal/Senior/Mid – AI/ML Engineer
@@ -47,41 +39,12 @@ _Generated: 2026-07-26T08:23:53.821Z_
 - **Location:** România
 - **Status:** scraped
 
-### Junior People & Talent Assistant
+### OneStream Dev/Arch
 
-- **URL:** [https://www.principal33.com/job-offers/?personio_job_id=2604957](https://www.principal33.com/job-offers/?personio_job_id=2604957)
+- **URL:** [https://www.principal33.com/job-offers/?personio_job_id=2650008](https://www.principal33.com/job-offers/?personio_job_id=2650008)
 - **Work Mode:** hybrid
-- **Location:** România
-- **Status:** scraped
-
-### Infrastructure Engineer
-
-- **URL:** [https://www.principal33.com/job-offers/?personio_job_id=2678422](https://www.principal33.com/job-offers/?personio_job_id=2678422)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Status:** scraped
-
-### Project Manager
-
-- **URL:** [https://www.principal33.com/job-offers/?personio_job_id=2695398](https://www.principal33.com/job-offers/?personio_job_id=2695398)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** manager level. lead project coordination with client pmo and cross-vendor teams throughout the upgrade program.
-- **Status:** scraped
-
-### ABAP Backend Developer
-
-- **URL:** [https://www.principal33.com/job-offers/?personio_job_id=2695456](https://www.principal33.com/job-offers/?personio_job_id=2695456)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Tags:** senior consultant level. focus on custom code adaptation and bug fixing arising from the s/4hana release upgrade — not new development.
-- **Status:** scraped
-
-### SAP Functional Tester
-
-- **URL:** [https://www.principal33.com/job-offers/?personio_job_id=2695468](https://www.principal33.com/job-offers/?personio_job_id=2695468)
-- **Work Mode:** hybrid
-- **Location:** România
+- **Location:** Brasov, Cluj-Napoca, Târgu Mureș
+- **Tags:** onestream, finance, epm, tm1, sap, tagetik, adaptive, epm platforms
 - **Status:** scraped
 
 ### QA Automation Lead
@@ -92,31 +55,9 @@ _Generated: 2026-07-26T08:23:53.821Z_
 - **Tags:** qa, automation, quality assurance
 - **Status:** scraped
 
-### SAP SAC Architecture
+### Engineer or SME with Knowledge in Grundversorgung process in Germany
 
-- **URL:** [https://www.principal33.com/job-offers/?personio_job_id=2712892](https://www.principal33.com/job-offers/?personio_job_id=2712892)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Status:** scraped
-
-### SAP BW Consultant
-
-- **URL:** [https://www.principal33.com/job-offers/?personio_job_id=2712902](https://www.principal33.com/job-offers/?personio_job_id=2712902)
-- **Work Mode:** hybrid
-- **Location:** România
-- **Status:** scraped
-
-### Trainee .NET Developer
-
-- **URL:** [https://www.principal33.com/job-offers/?personio_job_id=2725378](https://www.principal33.com/job-offers/?personio_job_id=2725378)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** .net, c#, asp.net core, rest api, sql
-- **Status:** scraped
-
-### Python Developer - USA time zone
-
-- **URL:** [https://www.principal33.com/job-offers/?personio_job_id=2726890](https://www.principal33.com/job-offers/?personio_job_id=2726890)
+- **URL:** [https://www.principal33.com/job-offers/?personio_job_id=2805095](https://www.principal33.com/job-offers/?personio_job_id=2805095)
 - **Work Mode:** hybrid
 - **Location:** România
 - **Status:** scraped
