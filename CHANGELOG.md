@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.0] - 2026-06-21
 
 ### Added
-- Initial release — derived from sebiboga/epam-systems-international-srl-nodejs-scraper
+- Initial release — derived from peviitor-scrapers/epam-systems-international-srl-nodejs-scraper
 - Job scraping from Principal33 Personio JSON API
 - Company validation via ANAF
 - Solr integration for job storage

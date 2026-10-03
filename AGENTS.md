@@ -4,7 +4,7 @@
 PRINCIPAL33 scraper for peviitor.ro (Node.js, ESM, Jest)
 
 ## 🌱 This Repo Is a Derived Scraper
-Acest scraper este derivat din [epam-systems-international-srl-nodejs-scraper](https://github.com/sebiboga/epam-systems-international-srl-nodejs-scraper), template-ul de referință pentru scrapere Node.js din ecosistemul peviitor.ro.
+Acest scraper este derivat din [epam-systems-international-srl-nodejs-scraper](https://github.com/peviitor-scrapers/epam-systems-international-srl-nodejs-scraper), template-ul de referință pentru scrapere Node.js din ecosistemul peviitor.ro.
 
 ## Critical Rules
 
@@ -14,7 +14,7 @@ When polling a workflow run with `until [ "$(gh run view ID --json status -q .st
 
 **Always specify the repo explicitly:**
 ```bash
-gh run view <RUN_ID> --repo sebiboga/principal33-srl-nodejs-scraper --json status -q .status
+gh run view <RUN_ID> --repo peviitor-scrapers/principal33-srl-nodejs-scraper --json status -q .status
 ```
 
 Before starting any `gh run watch` or polling loop in the background, sanity-check:

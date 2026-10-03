@@ -4,9 +4,9 @@ Thank you for your interest in contributing!
 
 ## 🌱 This Repo Is a Derived Scraper
 
-Acest scraper este derivat din [epam-systems-international-srl-nodejs-scraper](https://github.com/sebiboga/epam-systems-international-srl-nodejs-scraper), template-ul de referință pentru scrapere Node.js din ecosistemul peviitor.ro.
+Acest scraper este derivat din [epam-systems-international-srl-nodejs-scraper](https://github.com/peviitor-scrapers/epam-systems-international-srl-nodejs-scraper), template-ul de referință pentru scrapere Node.js din ecosistemul peviitor.ro.
 
-Pentru a deriva un scraper nou pentru o altă companie românească, consultă template-ul original [epam-systems-international-srl-nodejs-scraper](https://github.com/sebiboga/epam-systems-international-srl-nodejs-scraper) și urmează procesul din `ALGORITHM.md`.
+Pentru a deriva un scraper nou pentru o altă companie românească, consultă template-ul original [epam-systems-international-srl-nodejs-scraper](https://github.com/peviitor-scrapers/epam-systems-international-srl-nodejs-scraper) și urmează procesul din `ALGORITHM.md`.
 
 ## Development
 
@@ -16,7 +16,7 @@ Pentru a deriva un scraper nou pentru o altă companie românească, consultă t
 
 ### Setup
 ```bash
-git clone https://github.com/sebiboga/principal33-srl-nodejs-scraper.git
+git clone https://github.com/peviitor-scrapers/principal33-srl-nodejs-scraper.git
 cd principal33-srl-nodejs-scraper
 npm install
 ```
